@@ -61,5 +61,5 @@ A multi-condition clinical AI platform that gives automated risk assessments for
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharsan-kumar-r-181365312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/dharsan-kumar-r-181365312](https://www.linkedin.com/in/dharsan-kumar-ramanathan-181365312/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dharsankumarkumar3@gmail.com)
